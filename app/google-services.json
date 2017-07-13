@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "459934134218",
+    "firebase_url": "https://kudkapp.firebaseio.com",
+    "project_id": "kudkapp",
+    "storage_bucket": "kudkapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459934134218:android:98c4c72da273a443",
+        "android_client_info": {
+          "package_name": "au.com.kudkapp.kudkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459934134218-tfoast8al68pq4a0jts1tqag974mf1sg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "au.com.kudkapp.kudkapp",
+            "certificate_hash": "837fffc02c8f238e0c0176f171fc18ee67f395f6"
+          }
+        },
+        {
+          "client_id": "459934134218-jgv1618pa6835ld4uthhf7sqqmbmibrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ7yUpKIs67oIJQ4b73Kz55WSLc2mcgfY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459934134218-jgv1618pa6835ld4uthhf7sqqmbmibrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
